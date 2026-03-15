@@ -1,0 +1,2 @@
+The authentication service is owned by the Identity Team.
+The service runs on Kubernetes deployed in GCP.

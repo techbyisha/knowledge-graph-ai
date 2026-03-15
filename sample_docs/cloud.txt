@@ -1,0 +1,1 @@
+Kubernetes is hosted on Google Cloud Platform.
