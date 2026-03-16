@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("Knowledge Graph AI")
+st.title("Enterprise Knowledge Graph AI")
 
 question = st.text_input("Ask a question about the system")
 
